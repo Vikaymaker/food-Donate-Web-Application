@@ -40,28 +40,21 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
-
+---
 ### 🧪 Technologies Used
 
-Python
-
-Flask
-
-SQLite / MySQL
-
-HTML
-
-CSS
-
-JavaScript
-
+- Python
+- Flask
+- SQLite / MySQL
+- HTML
+- CSS
+- JavaScript
+---
 ### 🎯 Use Cases
 
-Food donation management system
+- Food donation management system
+- NGO and charity organizations
+- Community welfare platforms
+- Academic & resume projects
 
-NGO and charity organizations
-
-Community welfare platforms
-
-Academic & resume projects
-
+---
