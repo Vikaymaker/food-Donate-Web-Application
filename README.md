@@ -6,7 +6,7 @@ The system allows users to donate excess food, request food, and enables adminis
 ---
 ## 📸 Screenshot
 
-![Food Donate Web Application UI](output.png)
+![Food Donate Web Application UI](food.png)
 
 ---
 ## 📌 Features
@@ -64,3 +64,4 @@ NGO and charity organizations
 Community welfare platforms
 
 Academic & resume projects
+
